@@ -1,0 +1,7 @@
+D:\VSProject\Knapsack\KnapsackDemo\KnapsackDemo\bin\Debug\KnapsackDemo.exe.config
+D:\VSProject\Knapsack\KnapsackDemo\KnapsackDemo\bin\Debug\KnapsackDemo.exe
+D:\VSProject\Knapsack\KnapsackDemo\KnapsackDemo\bin\Debug\KnapsackDemo.pdb
+D:\VSProject\Knapsack\KnapsackDemo\KnapsackDemo\obj\Debug\KnapsackDemo.csprojAssemblyReference.cache
+D:\VSProject\Knapsack\KnapsackDemo\KnapsackDemo\obj\Debug\KnapsackDemo.csproj.CoreCompileInputs.cache
+D:\VSProject\Knapsack\KnapsackDemo\KnapsackDemo\obj\Debug\KnapsackDemo.exe
+D:\VSProject\Knapsack\KnapsackDemo\KnapsackDemo\obj\Debug\KnapsackDemo.pdb
